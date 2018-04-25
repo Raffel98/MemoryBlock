@@ -1,0 +1,10 @@
+name: MemoryBlock
+author: Raffel98
+description: Save the Player if heBrake or Place a Block.
+version: 1.0.1
+main: de.Raffel98.MemoryBlock.Main
+
+commands:
+  MBlock:
+    description: Plugin option!
+    usage: /<command> <args>
